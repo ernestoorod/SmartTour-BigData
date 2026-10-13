@@ -1,0 +1,8 @@
+PASOS A SEGUIR (EJEMPLO PRACTICO):
+Objetivo final: Crear un script en Python que unifique todas las fuentes de informacion en un mismo fichero
+
+1. Leer los ficheros (CSV de ventas, Excel de productos, JSON de opiniones)
+2. Mostrar la informacion de los ficheros (dataframes)
+3. Pequeño control de calidad de los datos(si hay valores nulos / si hay valores duplicados)
+4. Unificar los datos(Ventas - Productos / Clientes(ventas_productos) - Opiniones)
+5. 
