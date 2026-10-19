@@ -5,4 +5,5 @@ Objetivo final: Crear un script en Python que unifique todas las fuentes de info
 2. Mostrar la informacion de los ficheros (dataframes)
 3. Pequeño control de calidad de los datos(si hay valores nulos / si hay valores duplicados)
 4. Unificar los datos(Ventas - Productos / Clientes(ventas_productos) - Opiniones)
-5. 
+5. Completamos informacion (total)
+6. Extraccion de indicadores clave (KPIs) no lo hicimos / esta en el notion parte de ello
