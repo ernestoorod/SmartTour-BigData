@@ -18,3 +18,4 @@ services:
     command:
       start-notebook.sh
       --NotebookApp.token=''
+
